@@ -1,0 +1,1000 @@
+  705  pwd
+  706  ls
+  707  /home/wilder/Bureau/javascript
+  708  touch es6.js
+  709  pwd
+  710  cd home/wilder/Bureau/javascript
+  711  pwd
+  712  ls
+  713  $ cd Bureau
+  714  cd Bureau
+  715  ls
+  716  cd javascript
+  717  touch es6.js
+  718  node es6js
+  719  pwd
+  720  node es6.js
+  721  npm install immutable
+  722  node es6.js
+  723  clear
+  724  node es6.js
+  725  pwd
+  726  touch
+  727  touch schlag.html
+  728  touch schlag.js
+  729  pwd
+  730  app.j
+  731  app.js
+  732  node app.js
+  733  meoz
+  734  node app.jd
+  735  node app.js
+  736  touch weather.html
+  737  node weather.html
+  738  node trainingtwo.js
+  739  pwd
+  740  ls
+  741  ..
+  742  cd..
+  743  cd
+  744  pwd
+  745  ls
+  746  es6.js
+  747  cd es6.js
+  748  /home/wilder/Bureau/S6/training.js
+  749  /home/wilder/Bureau/S6/trainingtwo.js
+  750  pwd
+  751  node trainingtwo.js
+  752  -r
+  753  code -r
+  754  pwd
+  755  sudo su
+  756  npm install
+  757  npm start
+  758  npm install nodemon -g
+  759  sudo npm install nodemon -g
+  760  npm install
+  761  npm start
+  762  pws
+  763  cd
+  764  pwd
+  765  /home/wilder/Bureau/S6/trainingtwo.js
+  766  node trainingtwo.js
+  767  pwd
+  768  /home/wilder/Bureau/S6/trainingtwo.js
+  769  pws
+  770  pwd
+  771  /home/wilder/Bureau/S6/trainingtwo.js
+  772  pwd
+  773  ls
+  774  node trainingtwo.js
+  775  ls
+  776  cd Desktop
+  777  cd Bureau
+  778  git clone https://github.com/Symfomany/express-base.git
+  779  ls
+  780  cd express-base/
+  781  npm install express
+  782  cd
+  783  pwd
+  784  git clone https://github.com/Symfomany/checkpoint-1-JS-0218.git
+  785  git clone
+  786  git clone https://github.com/Symfomany/checkpoint-1-JS-0218.git
+  787  git status
+  788  git checkout master
+  789  git clone https://github.com/Coreilly39/checkpoint-1-JS-0218.git
+  790  pwd
+  791  cd
+  792  pwfd
+  793  pwd
+  794  git clone https://github.com/Coreilly39/checkpoint-1-JS-0218.git
+  795  git status
+  796  git branch
+  797  pwd
+  798  /home/wilder/checkpoint-1-JS-0218/tests/checkpoint.test.js
+  799  pwd
+  800  git status
+  801  node checkpoint.test.js
+  802  /home/wilder/checkpoint-1-JS-0218/checkpoint.js
+  803  node checkpoint.js
+  804  node checkpoint.test.js
+  805  node checkpoint.js
+  806  node checkpoint.test.js
+  807  node checkpoint.js
+  808  git status
+  809  git add QCM.md 
+  810  git add checkpoint.js 
+  811  git add index.css 
+  812  git add index.html 
+  813  git status
+  814  git branch
+  815  git commit -m "reponses checkpoint"
+  816  git push origin claireo 
+  817  dojo?js
+  818  node dojo.js
+  819  pwd
+  820  ls
+  821  cd
+  822  pwd
+  823  git clone https://github.com/kenzoarima/simple-pwa.git
+  824  pwd
+  825  node serviceworker.js
+  826  pwd
+  827  ls
+  828  public
+  829  cd public
+  830  cd serviceworker.js
+  831  pwd
+  832  node serviceworker.js
+  833  /home/wilder/Bureau/simple-pwa/public/serviceworker.js
+  834  npm install
+  835  node server
+  836  node server.js
+  837  git checkout
+  838  npm install -g gulp
+  839  sudo npm install -g gulp
+  840  npm install axios
+  841  node -v
+  842  sudo npm install axios
+  843  pwd
+  844  node serviceworker.js
+  845  node axios.js
+  846  clear
+  847  sudo npm install materialize-css@next
+  848  sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
+  849  curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
+  850  sudo apt-get update
+  851  sudo apt-get install heroku
+  852  nmp install
+  853  node axios.js
+  854  hereko login 
+  855  heroku login
+  856  node -v
+  857  npm -v
+  858  git --version
+  859  git clone https://github.com/heroku/node-js-getting-started.git
+  860  cd node-js-getting-started
+  861  git status
+  862  git checkout master
+  863  git checkout clairehackorama
+  864  pwd
+  865  ls
+  866  pwd
+  867  /home/wilder/Bureau/simple-pwa/public/axios.js
+  868  ..
+  869  pwd
+  870  ..
+  871  clear
+  872  pwd
+  873  ls
+  874  ..
+  875  cd..
+  876  pwd
+  877  cd..
+  878  cd ..
+  879  /home/wilder/Bureau/simple-pwa/public/axios.js
+  880  npm install pug
+  881  ls
+  882  npm install --save fs-extra
+  883  node axios.js
+  884  /home/wilder/Bureau/simple-pwa/public/axios.js
+  885  pwd
+  886  cd ..
+  887  ls
+  888  cd simple-pwa
+  889  ls
+  890  cd public
+  891  ls
+  892  cd axios.js
+  893  node axios.js
+  894  npm install pug 
+  895  pwd
+  896  git innit
+  897  git init
+  898  git clone https://github.com/Emilia-Valmo/hackathon.git
+  899  ls
+  900  cd hackathon
+  901  git checkout -b claire
+  902  git status
+  903  git push -u origin claire
+  904  push -u origin claire
+  905  Coreilly39
+  906  git push -u origin claire
+  907  git status
+  908  git pull
+  909  git clone https://github.com/Emilia-Valmo/hackathon.git
+  910  pwd
+  911  cd demo-pwa
+  912  npm install
+  913  node index.js
+  914  /home/wilder/hackathon/hackathon/demo-pwa/public/javascripts/main.js
+  915  pwd
+  916  /home/wilder/hackathon/hackathon/demo-pwa/public/javascripts/main.js
+  917  pwd
+  918  ls
+  919  cd hackathon
+  920  ls
+  921  demo-pwa
+  922  cd demo-pwa
+  923  ls
+  924  cd public
+  925  ls
+  926  cd javascripts
+  927  ls
+  928  node main.js
+  929  pwd
+  930  ls
+  931  main.js
+  932  cd main.js
+  933  ls
+  934  cd ..
+  935  ls
+  936  node index.js
+  937  npm install express
+  938  node index.js
+  939  npm install
+  940  git status
+  941  git pull origin master
+  942  node index.js
+  943  npm install express
+  944  pwd
+  945  node main.js
+  946  ls
+  947  cd demo-pwa
+  948  ls
+  949  node index.js
+  950  ls
+  951  node index.js
+  952  npm install axios
+  953  node index.js
+  954  npm install materialize-css@next
+  955  materialize-css@next
+  956  npm install semantic-ui --save
+  957  npm update
+  958  node index.js
+  959  heroku addons:create heroku-postgresql:hobby-dev
+  960  npm install
+  961  /db
+  962  pwd
+  963  cd
+  964  pwd
+  965  ls
+  966  cd bureau
+  967  cd Bureau
+  968  ls
+  969  cd Quests
+  970  ls
+  971  cd Quests
+  972  cd .. 
+  973  ls
+  974  cd Bureau
+  975  ls
+  976  cd Quests
+  977  /home/wilder/Bureau/Quests\ /serverhttpnode/server.js
+  978  cd..
+  979  pwd
+  980  cd
+  981  pwd
+  982  ls
+  983  cd Bureau
+  984  home/wilder/Bureau/Quests /serverhttpnode
+  985  pwd
+  986  ls
+  987  cd Quests
+  988  /home/wilder/Bureau/Quests\ /serverhttpnode/server.js
+  989  npm install 
+  990  /home/wilder/Bureau/Quests\ /serverhttpnode/server.js
+  991  npm express
+  992  clear
+  993  ls
+  994  cd Quests
+  995  pws
+  996  pwd
+  997  ls
+  998  cd Bureau
+  999  ls
+ 1000  cd Quests
+ 1001  ls
+ 1002  node server.js
+ 1003  npm install express --save
+ 1004  npm install pug --save
+ 1005  node server.js
+ 1006  npm --save handlebars
+ 1007  node server.js
+ 1008  nmp install
+ 1009  npm install
+ 1010  node server.js
+ 1011  npm install request
+ 1012  node server.js
+ 1013  npm init
+ 1014  server.js
+ 1015  node server.js
+ 1016  npm init
+ 1017  npm install express
+ 1018  clear
+ 1019  node server.js 
+ 1020  pwd
+ 1021  /home/wilder/Bureau/express-base/node_modules/req-flash/examples/users.js
+ 1022  node users.js
+ 1023  npm start
+ 1024  git status
+ 1025  clear
+ 1026  node index.js
+ 1027  npm start
+ 1028  npm install express-generator -g
+ 1029  sudo npm install express-generator -g
+ 1030  express monprojet --pug --git
+ 1031  npm install
+ 1032  node bin/www
+ 1033  pwd
+ 1034  ls
+ 1035  monprojet
+ 1036  cd monprojet
+ 1037  ls
+ 1038  cd routes
+ 1039  ls
+ 1040  node index.js
+ 1041  node bin/www
+ 1042  cd..
+ 1043  ..
+ 1044  cd ..
+ 1045  ls
+ 1046  node bin/www
+ 1047  npm install
+ 1048  node bin/www
+ 1049  cd monprojet/
+ 1050  node bin/www
+ 1051  netstat -p TCP | grep 3000
+ 1052  sudo netstat -p TCP | grep 3000
+ 1053  git pull origin master
+ 1054  git fetch all 
+ 1055  git fetch --all
+ 1056  git clone https://github.com/Symfomany/express-base.git
+ 1057  npm start
+ 1058  npm install validator*
+ 1059  sudo npm install validator
+ 1060  sudo apt-get install phpmyadmin
+ 1061  ls
+ 1062  npm start
+ 1063  cd express-base/
+ 1064  npm i
+ 1065  npm start
+ 1066  p<d
+ 1067  pwd
+ 1068  node app.js
+ 1069  npm install
+ 1070  npm express install -g
+ 1071  node app.js
+ 1072  bin /www
+ 1073  pwd
+ 1074  bin /www
+ 1075  npm start
+ 1076  node .bin/www/
+ 1077  npm install express --save
+ 1078  nope app.js
+ 1079  pwd
+ 1080  ls
+ 1081  cd monprojet
+ 1082  node app.js
+ 1083  npm install git://github.com/RGBboy/express-flash.git
+ 1084  node app.js
+ 1085  npm start
+ 1086  nodemon -v
+ 1087  npm start
+ 1088  npm install ejs
+ 1089  npm express
+ 1090  npm i -g 
+ 1091  npm express
+ 1092  console log
+ 1093  node index.js
+ 1094  ls
+ 1095  routes
+ 1096  cd routes
+ 1097  node index.js
+ 1098  node users.js
+ 1099  npm install
+ 1100  bin/www
+ 1101  cd.. 
+ 1102  cd..
+ 1103  wpd
+ 1104  cd..
+ 1105  ..
+ 1106  pwd
+ 1107  ..
+ 1108  cd..
+ 1109  cd ..
+ 1110  bin/www
+ 1111  node bin
+ 1112  :node bin/www
+ 1113  node bin/ww
+ 1114  fuuuuuuuuuck
+ 1115  fuck fuck fuck 
+ 1116  npm i 
+ 1117  npm start
+ 1118  npm i
+ 1119  npm start
+ 1120  install pug
+ 1121  npm install pug
+ 1122  npm start
+ 1123  start npm
+ 1124  node ./bin/www
+ 1125  npm start
+ 1126  git status
+ 1127  git checkout master 
+ 1128  git pull origin master
+ 1129  git merge gittest
+ 1130  git merge wcs
+ 1131  git status
+ 1132  git add wild.php
+ 1133  git status
+ 1134  git merge README.md
+ 1135  git merde wild.php
+ 1136  git merge wild.php
+ 1137  git push origin wcs
+ 1138  git checkout master
+ 1139  git checkout -b wcs
+ 1140  git status
+ 1141  git merge wcs
+ 1142  git branch
+ 1143  git merge wild.php
+ 1144  git merge
+ 1145  git merge wcs
+ 1146  cd ..
+ 1147  git status
+ 1148  git clone
+ 1149  git clone https://github.com/Coreilly39/gittest.git
+ 1150  cd /home/wilder/Bureau
+ 1151  git clone https://github.com/Symfomany/express-base.git
+ 1152  mkdir base
+ 1153  cd base
+ 1154  git clone https://github.com/Symfomany/express-base.git
+ 1155  git status
+ 1156  git add wild.php
+ 1157  git push origin wcs
+ 1158  git push origin master
+ 1159  git commit -m "add this file"
+ 1160  git push origin master
+ 1161  '/home/wilder/Téléchargements/jre-8u171-linux-x64.rpm' 
+ 1162  mysql --version
+ 1163  mysql -u root -p
+ 1164  mysqldump -u root --databases friends > test.sql
+ 1165  mysqldump -u root -p root --databases friends > test.sql
+ 1166  mysqldump -u root -p --databases friends > test.sql
+ 1167  pwd
+ 1168  cd ..
+ 1169  ls
+ 1170  cd ..
+ 1171  pwd
+ 1172  ls
+ 1173  pwd
+ 1174  git clone https://github.com/electron/electron-quick-start mon-projet
+ 1175  npm install 
+ 1176  npm start
+ 1177  sudo npm install --save-dev devtron
+ 1178  sudo npm install electron-packager --save
+ 1179  npm start
+ 1180  npm install electron-packager -g
+ 1181  sudo npm install electron-packager -g
+ 1182  git clone https://github.com/electron/electron-quick-start mon-projet
+ 1183  npm install 
+ 1184  npm start
+ 1185  git clone https://github.com/electron/electron-quick-start.git
+ 1186  pwd
+ 1187  npm install
+ 1188  npm start
+ 1189  npm install --save-dev devtron
+ 1190  npm start
+ 1191  npm install electron-packager --save
+ 1192  pwd
+ 1193  npm install
+ 1194  npm start
+ 1195  npm innit
+ 1196  npm init
+ 1197  npm start
+ 1198  git clone  $ git clone https://github.com/electron/electron-quick-start
+ 1199  git clone   $ git clone https://github.com/electron/electron-quick-start
+ 1200  git clone origin master
+ 1201  git checkout claire
+ 1202  git merge master
+ 1203  git clone https://github.com/Symfomany/express-base.git
+ 1204  clear
+ 1205  npm start
+ 1206  git add*
+ 1207  git pull master 
+ 1208  git clone https://github.com/Symfomany/express-base.git
+ 1209  git pull
+ 1210  git pull origin master
+ 1211  git fetch --all 
+ 1212  git fetch --all
+ 1213  git cline https://github.com/Symfomany/express-base.git
+ 1214  git clone https://github.com/Symfomany/express-base.git
+ 1215  git fetch origin
+ 1216  git reset --hard origin/master
+ 1217  npm start
+ 1218  npx create-react-app demo
+ 1219  cd demo
+ 1220  npx create-react-app demo
+ 1221  npm start
+ 1222  npx create-react-app demo
+ 1223  pwd
+ 1224  ls
+ 1225  cd bureau
+ 1226  cd Bureau
+ 1227  npx create-react-app demo
+ 1228  cd demo
+ 1229  npm start
+ 1230  npm run build
+ 1231  npm install -g serve
+ 1232  serve -s build
+ 1233  /home/wilder/Bureau/javascript/arrows.js
+ 1234  ls
+ 1235  cd Bureau
+ 1236  ls
+ 1237  cd javascript
+ 1238  ls
+ 1239  arrows.js
+ 1240  cd arrows.js
+ 1241  node arrows.js
+ 1242  console log arrows.js
+ 1243  node arrows.js
+ 1244  cd
+ 1245  ls
+ 1246  cd Bureau
+ 1247  ls
+ 1248  cd javascript
+ 1249  ls
+ 1250  cd weather.html
+ 1251  node weather.html
+ 1252  ls
+ 1253  cd Bureau
+ 1254  ls
+ 1255  cd javascript
+ 1256  node weather?js
+ 1257  nose weather.js
+ 1258  node weather.js
+ 1259  node arrows.js
+ 1260  npm iniit
+ 1261  npm init
+ 1262  node weather.js
+ 1263  npm install --request save 
+ 1264  npm init
+ 1265  npm install request --save
+ 1266  node weathertwo.js
+ 1267  cd /home/wilder/Bureau/react\ 
+ 1268  npx create-react-app router
+ 1269  cd router
+ 1270  npm start
+ 1271  npm i-- save react-router dump
+ 1272  npm i --save react-router-dom
+ 1273  npm start
+ 1274  cd router
+ 1275  npm start
+ 1276  npm install
+ 1277  cd /home/wilder/Bureau/Quests\ /react
+ 1278  create-react-app
+ 1279  ls
+ 1280  create-react-app
+ 1281  npm install -g create-react-app
+ 1282  npm install
+ 1283  npm install -g create-react-app
+ 1284  npx create-react-app my-app
+ 1285  npm start
+ 1286  cd my-app
+ 1287  npm start
+ 1288  npm install --save react-alert react-altert-template-basic
+ 1289  npm install --save react-alert react-alert-template-basic
+ 1290  npm i -g npm
+ 1291  sudo npm i -g npm
+ 1292  npm start
+ 1293  npx create-react-app my-app
+ 1294  npm start
+ 1295  npm run build
+ 1296  npx create-react-app my-app
+ 1297  npm run build
+ 1298  npm start
+ 1299  cd my-ap
+ 1300  cd my-app
+ 1301  npm start 
+ 1302  npm start
+ 1303  npm install -g create-react-app
+ 1304  create-react-app
+ 1305  npm install -g create-react-app
+ 1306  create-react-app my-app
+ 1307  npx create-react-app my app
+ 1308  cd my
+ 1309  npm start
+ 1310  ls
+ 1311  ext install prettier-vscode
+ 1312  sudo ext install prettier-vscode
+ 1313  dconf reset -f /
+ 1314  sudo dconf reset -f /
+ 1315  exec sudo -i
+ 1316  apt-get update 
+ 1317  clear
+ 1318  ls
+ 1319  rm correction.html 
+ 1320  ls
+ 1321  ls -l
+ 1322  clear
+ 1323  ls -l
+ 1324  cd clmystery-master/
+ 1325  ls
+ 1326  ls -l
+ 1327  cd mystery/
+ 1328  ls -l
+ 1329  cat crimescene 
+ 1330  ls -l
+ 1331  cd clmystery-master/
+ 1332  ls -l
+ 1333  cat instructions 
+ 1334  vim hint1
+ 1335  nano hint1
+ 1336  nano cheatsheet.md
+ 1337  cd mystery/
+ 1338  ls -l
+ 1339  nano ../hint1
+ 1340  cd ..
+ 1341  cat hint1 > hint
+ 1342  ls -l
+ 1343  cat hint
+ 1344  cat hint2 >>  hint
+ 1345  cat hint
+ 1346  cat hint2
+ 1347  nano hint2
+ 1348  pwd
+ 1349  ls -l
+ 1350  head -n 20  ./mystery/people >> hint
+ 1351  nano hint
+ 1352  head -n 20  ./mystery/people > hint
+ 1353  nano hint
+ 1354  nano hint1
+ 1355  nano hint2
+ 1356  nano hint2
+ 1357  grep "CLUE" ./mystery/crimescene 
+ 1358  grep "CLUE" ./mystery/crimescene >> hint
+ 1359  nano  hint
+ 1360  nano  hint3
+ 1361  nano ./mystery/people 
+ 1362  nano hint
+ 1363  nano ./mystery/vehicles 
+ 1364  nano  hint3
+ 1365  nano hint
+ 1366  nano ./mystery/vehicles 
+ 1367  nano  hint4
+ 1368  nano ./mystery/people 
+ 1369  grep "annabelle" ./mystery/people 
+ 1370  nano  hint4
+ 1371  grep "Annabel" ./mystery/people 
+ 1372  grep "Annabel" ./mystery/people >> hint
+ 1373  ls ./mystery/streets/
+ 1374  nano  hint5
+ 1375  head -n 173 ./mystery/streets/Mattapan_Street | tail -n 1
+ 1376  head -n 173 ./mystery/streets/Mattapan_Street | tail -n 1 >> hint
+ 1377  nano hint
+ 1378  nano hint5
+ 1379  nano hint6
+ 1380  nano hint6
+ 1381  nano ./mystery/vehicles 
+ 1382  ls -l
+ 1383  nano cheatsheet.md
+ 1384  nano hint6
+ 1385  nano ./mystery/vehicles 
+ 1386  nano hint6
+ 1387  nano hint7
+ 1388  nano hint8
+ 1389  man cat
+ 1390  nano hint9
+ 1391  nano hint7
+ 1392  nano hint
+ 1393  nano hint
+ 1394  nano ./mystery/interviews/interview-9437737 
+ 1395  nano hint
+ 1396  nano hint7
+ 1397  nano hint6
+ 1398  grep "L337" ./mystery/vehicles 
+ 1399  grep -A 5 "L337" ./mystery/vehicles 
+ 1400  nano hint6
+ 1401  grep -A 5 "honda" ./mystery/vehicles 
+ 1402  grep -A 5 "Honda" ./mystery/vehicles 
+ 1403  grep -C 4 "Honda" ./mystery/vehicles 
+ 1404  grep -C 4 "Honda" "blue" ./mystery/vehicles 
+ 1405  grep -C 3 "Honda" "blue" ./mystery/vehicles 
+ 1406  grep -C 3 "Honda" ./mystery/vehicles | grep -C 3 "blue"
+ 1407  grep -C 3 "Honda" ./mystery/vehicles | grep -C 3 "blue" ./mystery/vehicles 
+ 1408  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule | grep -C 3 hint_vehicule
+ 1409  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule | grep -C 3 hint_vehicul
+ 1410  grep 
+ 1411  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule | grep -C 3 hint_vehicule
+ 1412  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule | grep -
+ 1413  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule
+ 1414  grep -C 3 "red" hint_vehicule
+ 1415  nano hint_vehicule 
+ 1416  nano hint1
+ 1417  nano hint2
+ 1418  nano hint3
+ 1419  nano hint4
+ 1420  grep "Anabel" ./mystery/crimescene
+ 1421  grep "133" ./mystery/crimescene
+ 1422  nano hint5
+ 1423  head -n 173 ./mystery/streets/Mattapan_Street | tail -n 1
+ 1424  nano ./mystery/interviews/interview-9437737 
+ 1425  grep -C 3 "honda" ./mystery/vehicles > hint_vehicule 
+ 1426  nano hint_vehicule 
+ 1427  grep -C 3 "Honda" ./mystery/vehicles > hint_vehicule 
+ 1428  nano hint_vehicule 
+ 1429  nano hint
+ 1430  nano hint1
+ 1431  nano hint
+ 1432  ls -l
+ 1433  cd clmystery-master/
+ 1434  ls -l
+ 1435  nano hint
+ 1436  nano hint1
+ 1437  head -n 20 ./mystery/people > tri
+ 1438  nano tri
+ 1439  nano hint2
+ 1440  grep "CLUE" ./mystery/crimescene >> tri
+ 1441  nano tri
+ 1442  nano ./mystery/crimescene 
+ 1443  grep "AAA" ./mystery/crimescene
+ 1444  grep "Delta" ./mystery/crimescene
+ 1445  grep "Museum" ./mystery/crimescene
+ 1446  nano hint2
+ 1447  nano hint3
+ 1448  nano ./mystery/people 
+ 1449  nano hint3
+ 1450  nano ./mystery/people 
+ 1451  nano hint
+ 1452  nano hint3
+ 1453  nano hint4
+ 1454  nano hint1
+ 1455  nano hint2
+ 1456  nano hint4
+ 1457  nano hint5
+ 1458  grep "witness" ./mystery/crimescene
+ 1459  nano hint5
+ 1460  nano hint6
+ 1461  nano hint7
+ 1462  git
+ 1463  vscode
+ 1464  visual 
+ 1465  ls -l
+ 1466  sudo dpkg -i code_1.26.1-1534444688_amd64.deb 
+ 1467  sudo apt-get install git
+ 1468  "got config --global use.name "Isandre"
+ 1469  "git config --global use.name "Isandre"
+ 1470  "git config --global user.name "Isandre"
+ 1471  "git config --global user.name "Isandre47"
+ 1472  git config --global user.name "Isandre47"
+ 1473  git config --global user.email nuanda@live.fr
+ 1474  gimp
+ 1475  git config --global user.name "Isandre47"
+ 1476  git config --global user.email nuanda@live.fr
+ 1477  git config --list 
+ 1478  git config --global color.ui true
+ 1479  git config --global core.editor nano
+ 1480  mkdir quetes
+ 1481  mkdir quetes/git
+ 1482  cd ./quetes/git/
+ 1483  ls
+ 1484  git init
+ 1485  ls
+ 1486  echo "test quete git" > README.md
+ 1487  git init
+ 1488  git status 
+ 1489  git add README.md 
+ 1490  git status 
+ 1491  git commit -m "Message obligé"
+ 1492  git branch dev | git checkout dev
+ 1493  git branch dev
+ 1494  git checkout dev
+ 1495  echo "test quete git fausse fonctionnalité php" > index.php
+ 1496  git commit -m "Message obligé php"
+ 1497  git checkout master 
+ 1498  sudo apt-get install gitk
+ 1499  gitk
+ 1500  git chekout
+ 1501  git checkout 
+ 1502  cd ..
+ 1503  ls
+ 1504  mkdir wcs
+ 1505  cd wcs/
+ 1506  ls
+ 1507  git init
+ 1508  git status
+ 1509  echo "Texte dans le fichier wild.php" > wild.php
+ 1510  git add wild.php 
+ 1511  git init
+ 1512  git status
+ 1513  git commit -m "A la Wild Code School on code en chaussettes"
+ 1514  gitk
+ 1515  cd ./
+ 1516  ls
+ 1517  mv wild.php ../
+ 1518  cd ..
+ 1519  ls
+ 1520  gitk
+ 1521  cd wcs/
+ 1522  ls
+ 1523  git init
+ 1524  git status
+ 1525  mv ../wild.php ./
+ 1526  ls
+ 1527  git status
+ 1528  git init
+ 1529  git status
+ 1530  git commit -m "A la Wild Code School on code en chaussettes"
+ 1531  git branch wcs
+ 1532  git checkout wcs
+ 1533  git branch 
+ 1534  git checkout master 
+ 1535  git branch 
+ 1536  git checkout wcs
+ 1537  gitk
+ 1538  git sta
+ 1539  git status 
+ 1540  git checkout master 
+ 1541  git pull origin master 
+ 1542  https://github.com/Isandre47/git-remote.git
+ 1543  git remote add origin https://github.com/Isandre47/git-remote.git
+ 1544  git remote -v
+ 1545  git branch 
+ 1546  git checkout master 
+ 1547  git push -u origin master 
+ 1548  git checkout wcs 
+ 1549  git push -u origin wcs
+ 1550  git pull origin wcs
+ 1551  git merge origin/wcs
+ 1552  git status 
+ 1553  git checkout master 
+ 1554  git pull origin master 
+ 1555  apt-get update 
+ 1556  sudo apt-get update 
+ 1557  sudo apt-get upgrade 
+ 1558  sudo apt-get dist-upgrade 
+ 1559  clear
+ 1560  cd ./clmystery-master/mystery/
+ 1561  ls
+ 1562  cd ..
+ 1563  ls
+ 1564  hint1 > hint
+ 1565  cat hint1
+ 1566  cat hint1 > hint
+ 1567  cat hint2 >> hint
+ 1568  cat hint3 >> hint
+ 1569  cat hint4 >> hint
+ 1570  cat hint5 >> hint
+ 1571  cat hint6 >> hint
+ 1572  cat hint7 >> hint
+ 1573  cat hint8 >> hint
+ 1574  nano hint
+ 1575  nano instructions 
+ 1576  grep "CLUE" ./mystery/crimescene 
+ 1577  grep "CLUE" ./mystery/crimescene > tri
+ 1578  nano tri
+ 1579  man head
+ 1580  nano hint
+ 1581  grep "Annabel" ./mystery/people >> tri
+ 1582  nano tri
+ 1583  man head
+ 1584  nano tri
+ 1585  head -n 173 ./mystery/streets/Mattapan_Street 
+ 1586  head -n 173 ./mystery/streets/Mattapan_Street | tails -n 1
+ 1587  head -n 173 ./mystery/streets/Mattapan_Street | tail -n 1
+ 1588  head -n 173 ./mystery/streets/Mattapan_Street | tail -n 1 >> tri
+ 1589  nano tri 
+ 1590  head -n 176 ./mystery/streets/Haley_Street | tail -n 1
+ 1591  head -n 176 ./mystery/streets/Haley_Street | tail -n 1 >> tri
+ 1592  nano tri 
+ 1593  nano hint
+ 1594  ls
+ 1595  mv hint ./mystery/
+ 1596  mv tri ./mystery/
+ 1597  cd ./mystery/
+ 1598  ls
+ 1599  grep "Honda" vehicles 
+ 1600  grep "Blue" vehicles 
+ 1601  grep "
+ 1602  grep "Honda" vehicles | grep "Blue" vehicles | grep "L337" vehicles 
+ 1603  head -n 10 vehicles 
+ 1604  head -n 15 vehicles 
+ 1605  head -n 11 vehicles 
+ 1606  head -n 10 vehicles | tail -n 6
+ 1607  grep -A 5 "L337" vehicles 
+ 1608  ls
+ 1609* 
+ 1610  ls
+ 1611  cd ..
+ 1612  ls
+ 1613  nano tri
+ 1614  nano ./interviews/interview-9437737 
+ 1615  nano ./interviews/interview-871877 
+ 1616  nano ./interviews/interview-9437737 
+ 1617  nano ./interviews/interview-9437737 >> tri
+ 1618  ls
+ 1619  cd clmystery-master/mystery/
+ 1620  ls
+ 1621  nano tri
+ 1622  nano hint 
+ 1623  nano tri
+ 1624  history > monhistorique.log
+ 1625  ls -ls
+ 1626  cd memberships/
+ 1627  ls -ls
+ 1628  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1629  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Fuglsang"
+ 1630  grep -A 5 "L337" vehicles 
+ 1631  grep -A 5 "L337" ../vehicles 
+ 1632  cd ..
+ 1633  ls
+ 1634  grep "Honda" vehicles 
+ 1635  grep -A 5 "L337" vehicles 
+ 1636  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Fuglsang"
+ 1637  cd ./memberships/
+ 1638  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Fuglsang"
+ 1639  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1640  grep -A 5 "L337" vehicles
+ 1641  ls
+ 1642  cd ..
+ 1643  ls
+ 1644  nano ./interviews/interview-9437737 
+ 1645  nano ./interviews/interview-871877 
+ 1646  grep -B 4 "Height: 6'" vehicles
+ 1647  grep -B 4 "Height: 6'" vehicles | grep "Annabel"
+ 1648  grep -B 4 "Height: 6'" vehicles | grep "Fuglsang"
+ 1649  grep -B 4 "Annabel" vehicles
+ 1650  grep -C 3 "Annabel" vehicles
+ 1651  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1652  cd memberships/
+ 1653  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1654  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "John Smith"
+ 1655  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1656  cd ..
+ 1657  ls
+ 1658  grep -A 5 "L337" vehicles 
+ 1659  head -n 173 streets/Mattapan_Street | tail -n 2
+ 1660  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1661  cd ./memberships/
+ 1662  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Annabel"
+ 1663  cd ..
+ 1664  head -n 173 streets/Hart_Place | tail -n 1
+ 1665  head -n 173 streets/Buckingham_Place | tail -n 1
+ 1666  head -n 40 streets/Hart_Place | tail -n 1
+ 1667  head -n 179 streets/Buckingham_Place | tail -n 1
+ 1668  nano ./interviews/interview-47246024 
+ 1669  nano ./interviews/interview-699607 
+ 1670  grep -A 5 "L337" vehicles 
+ 1671  grep -A 5 "L337" vehicles | grep "Honfa"
+ 1672  grep -A 5 "L337" vehicles | grep "Honda"
+ 1673  grep -A 5 "L337" vehicles | grep -A 4 "Honda"
+ 1674  grep -A 5 "L337" vehicles | grep -A 3 "Honda"
+ 1675  grep -A 5 "L337" vehicles | grep -A 3 "Honda" >> tri 
+ 1676  nano hint 
+ 1677  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Katie"
+ 1678  cd ./memberships/
+ 1679  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Katie"
+ 1680  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -C 3 "Katie"
+ 1681  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Katie"
+ 1682  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Mike"
+ 1683  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Aron"
+ 1684  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "joe"
+ 1685  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe"
+ 1686  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jaqui"
+ 1687  grep -A 5 "L337" vehicles | grep -A 3 "Honda" >> tri 
+ 1688  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Erika"
+ 1689  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Aron"
+ 1690  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe"
+ 1691  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy"
+ 1692  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jacqui"
+ 1693  cd ./
+ 1694  ls
+ 1695  cd ..
+ 1696  ls
+ 1697  grep -A 5 "L337" vehicles 
+ 1698  history > mon_historique.log
+ 1699  nano mon_historique.log 
+ 1700  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy"
+ 1701  cd ./memberships/
+ 1702  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy"
+ 1703  echo "Jeremy Bowers"
+ 1704  history > ../mon_historique.log
